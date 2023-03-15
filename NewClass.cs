@@ -8,6 +8,6 @@ namespace ConsoleApp25
 {
     class NewClass
     {
-        void EmptyMethod();
+        void emptyMethod();
     }
 }
