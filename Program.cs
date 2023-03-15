@@ -12,5 +12,7 @@ namespace ConsoleApp25
         {
             Console.WriteLine("Novo");
         }
+        
+        void bugFix();
     }
 }
